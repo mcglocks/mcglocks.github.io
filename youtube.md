@@ -4,6 +4,6 @@ title: YouTube
 permalink: /youtube/
 ---
 
-Check out my [YouTube channel](https://www.youtube.com/@maxmcloughlin).
+<iframe src="https://www.youtube.com/embed/videoseries?list=UUQ_QsWygcfxpyTl-La1PpHA" style="width:100%; aspect-ratio:16/9; border:none;" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/@maxmcloughlin" style="width:100%; height:80vh; border:none;"></iframe>
+[See all videos on YouTube →](https://www.youtube.com/@maxmcloughlin)
