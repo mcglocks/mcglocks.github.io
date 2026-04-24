@@ -1,0 +1,10 @@
+title: McGlocks
+description: Writing, photography, travel, and other things.
+theme: minima
+
+header_pages:
+  - writing.md
+  - photography.md
+  - youtube.md
+  - interests.md
+  - travel.md
